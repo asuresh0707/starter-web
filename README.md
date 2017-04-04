@@ -18,4 +18,10 @@ infosys
 
 driven by values and powered by intelluct
 
+
+##devops is a way that makes faster delivery of software
+
+data you type should be meaningfull
+
+
 Sample website with plenty of files for demos
