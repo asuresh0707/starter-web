@@ -10,6 +10,10 @@ aroundng 2017
 
 ## delhi bous
 
+##jelly beans
+
+android os 
+
 asuresh
 
 ##all is well that ends well
